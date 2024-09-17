@@ -5,7 +5,7 @@ description: ELLIS workshop, HYBRID, December 6, 2024
 color:
     gradient_left: "#333333"
     gradient_right: "#686868"
-    header: "#b2e684"
+    header: "#c0c0c0"
     android_theme: "#000" # this default to gradient_color
     link: "#6a9bdd" # this default to gradient_color
     section_title: "#e38e48" # this default to gradient_color
