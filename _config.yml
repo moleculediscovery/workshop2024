@@ -5,8 +5,8 @@ title: ML for molecules and materials in the era of LLMs [ML4Molecules]
 description: ELLIS workshop, HYBRID, December 6, 2024
 # ELLIS Machine Learning for Molecules Discovery workshop
 colors:
-    gradient_left: "#333333ff"
-    gradient_right: "#159957"
+    gradient_left: "#333333"
+    gradient_right: "#f0f0f0"
     header: "#fff"
     android_theme: "#000" # this default to gradient_color
     link: "#1e6bb8" # this default to gradient_color
