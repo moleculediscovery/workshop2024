@@ -5,22 +5,11 @@ title: ML for molecules and materials in the era of LLMs [ML4Molecules]
 description: ELLIS workshop, HYPRID, December 6, 2024
 # ELLIS Machine Learning for Molecules Discovery workshop
 
-// Primary colors inspired by the logo
-$primary-color: #ff9000; // Orange color from the logo
-$background-color: #1c1c1e; // Dark grey/black background
-$text-color: #e6e6e6; // Light grey for readability
+# Customization options for Cayman theme
+theme: jekyll-theme-cayman
 
-// Apply to the body and other areas
-body {
-  background-color: $background-color;
-  color: $text-color;
-}
-
-// Adjust header, buttons, links, etc.
-a, .button, .header {
-  color: $primary-color;
-}
-
-nav a:hover {
-  background-color: lighten($primary-color, 10%);
-}
+# Color Scheme inspired by your logo
+colors:
+  primary: "#ff9000" # Orange color from the logo
+  background: "#1c1c1e" # Dark grey/black background
+  text: "#e6e6e6" # Light grey for text readability
