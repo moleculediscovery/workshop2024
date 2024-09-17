@@ -8,13 +8,7 @@ description: ELLIS workshop, HYPRID, December 6, 2024
 # Customization options for Cayman theme
 theme: jekyll-theme-cayman
 
-# Color Scheme inspired by your logo
-colors:
-  primary: "#ff9000" # Orange color from the logo
-  background: "#1c1c1e" # Dark grey/black background
-  text: "#e6e6e6" # Light grey for text readability
+# theme_color: 
+ellisgrey: "#1c1c1e"
+theme_color: snowwhite
 
-# You can custom selection style
- selection:
-   color: "#ff00ff"
-   background_color: "#1c1c1e"
