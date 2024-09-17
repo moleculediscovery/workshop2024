@@ -13,3 +13,8 @@ colors:
   primary: "#ff9000" # Orange color from the logo
   background: "#1c1c1e" # Dark grey/black background
   text: "#e6e6e6" # Light grey for text readability
+
+# You can custom selection style
+ selection:
+   color: "#ff00ff"
+   background_color: "#1c1c1e"
