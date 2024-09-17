@@ -1,12 +1,11 @@
+# ELLIS Machine Learning for Molecules Discovery workshop
 remote_theme: tuur29/pages-themes-cayman
 title: ML for molecules and materials in the era of LLMs [ML4Molecules]
 description: ELLIS workshop, HYBRID, December 6, 2024
-# ELLIS Machine Learning for Molecules Discovery workshop
-logo_url: ./assets/ellis_header_logo.png
 color:
     gradient_left: "#333333"
-    gradient_right: "#b4b4b4"
-    header: "#4bc5be"
+    gradient_right: "#686868"
+    header: "#b2e684"
     android_theme: "#000" # this default to gradient_color
     link: "#6a9bdd" # this default to gradient_color
     section_title: "#e38e48" # this default to gradient_color
