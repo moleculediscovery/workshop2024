@@ -6,11 +6,13 @@ description: ELLIS workshop, HYBRID, December 6, 2024
 # ELLIS Machine Learning for Molecules Discovery workshop
 
 # Customization options for Cayman theme
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
+# Optional: You can keep this unchanged if you don't need more extensive modifications
+permalink: /:path/
 
-# Define the default layout for the site
-defaults:
-  - scope:
-      path: ""  # An empty string means "all files"
-    values:
-      layout: default  # Use the custom layout in _layouts/default.html
+# Add this line to tell Jekyll to use your custom stylesheet
+markdown: kramdown
+sass:
+  style: compressed
+include:
+  - assets
