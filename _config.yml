@@ -9,6 +9,5 @@ description: ELLIS workshop, HYBRID, December 6, 2024
 theme: jekyll-theme-cayman
 
 # theme_color: 
-ellisgrey: "#1c1c1e"
-theme_color: ellisgrey
+theme_color: "#882250"
 
