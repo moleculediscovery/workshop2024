@@ -4,8 +4,8 @@ description: ELLIS workshop, HYBRID, December 6, 2024
 # ELLIS Machine Learning for Molecules Discovery workshop
 color:
     gradient_left: "#333333"
-    gradient_right: "#f0f0f0"
-    header: "#fff"
+    gradient_right: "#b4b4b4"
+    header: "#4bc5be"
     android_theme: "#000" # this default to gradient_color
-    link: "#1e6bb8" # this default to gradient_color
-    section_title: "#155799" # this default to gradient_color
+    link: "#6a9bdd" # this default to gradient_color
+    section_title: "#e38e48" # this default to gradient_color
