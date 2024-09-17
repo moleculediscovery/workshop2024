@@ -8,6 +8,9 @@ description: ELLIS workshop, HYBRID, December 6, 2024
 # Customization options for Cayman theme
 theme: jekyll-theme-cayman
 
-# theme_color: 
-theme_color: "#882250"
-
+# Define the default layout for the site
+defaults:
+  - scope:
+      path: ""  # An empty string means "all files"
+    values:
+      layout: default  # Use the custom layout in _layouts/default.html
