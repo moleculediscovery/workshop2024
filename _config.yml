@@ -6,7 +6,7 @@ description: ELLIS workshop, HYBRID, December 6, 2024
 # ELLIS Machine Learning for Molecules Discovery workshop
 
 # Customization options for Cayman theme
-theme: jekyll-theme-cayman
+theme: jekyll-theme-yat
 
 # theme_color: 
 theme_color: "#882250"
