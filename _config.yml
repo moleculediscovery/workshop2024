@@ -2,5 +2,12 @@ remote_theme: tuur29/pages-themes-cayman
 plugins:
 - jekyll-remote-theme
 title: ML for molecules and materials in the era of LLMs [ML4Molecules]
-description: ELLIS workshop, HYPRID, December 6, 2024
+description: ELLIS workshop, HYBRID, December 6, 2024
 # ELLIS Machine Learning for Molecules Discovery workshop
+colors:
+    gradient_left: "#333333ff"
+    gradient_right: "#159957"
+    header: "#fff"
+    android_theme: "#000" # this default to gradient_color
+    link: "#1e6bb8" # this default to gradient_color
+    section_title: "#155799" # this default to gradient_color
