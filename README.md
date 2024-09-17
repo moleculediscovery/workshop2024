@@ -1,2 +1,2 @@
-# workshop2024
+# Workshop2024
 ML4Molecules workshop 2024
