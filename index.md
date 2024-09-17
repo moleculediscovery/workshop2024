@@ -1,3 +1,10 @@
+---
+title: ML for molecules and materials in the era of LLMs [ML4Molecules]
+description: ELLIS workshop, HYBRID, December 6, 2024
+layout: default
+---
+
+# ML for Molecules and Materials in the Era of LLMs [ML4Molecules]
 
 [About](#about) - [Registration](#registration) - [Schedule](#schedule) - [Keynote Speakers](#keynote-speakers)  - [Keynote Abstracts](#keynote-abstracts) - [Accepted Contributions](#accepted-contributions) - [Important Dates](#important-dates) - [Call for Papers](#call-for-papers)
 
