@@ -1,0 +1,22 @@
+/* Change background and text color */
+body {
+  background-color: #f0f0f0; /* Light gray background */
+  color: #333;               /* Dark gray text */
+}
+
+/* Change the header background and text color */
+.site-header {
+  background-color: #1e2a38; /* Dark blue header */
+  color: #ffffff;            /* White header text */
+}
+
+/* Change link colors */
+a {
+  color: #007acc;            /* Light blue links */
+}
+
+/* Change footer background and text color */
+.site-footer {
+  background-color: #1e2a38; /* Dark blue footer */
+  color: #ffffff;            /* White footer text */
+}
