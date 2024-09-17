@@ -2,17 +2,5 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: ML for molecules and materials in the era of LLMs [ML4Molecules]
-description: ELLIS workshop, HYBRID, December 6, 2024
+description: ELLIS workshop, HYPRID, December 6, 2024
 # ELLIS Machine Learning for Molecules Discovery workshop
-
-# Customization options for Cayman theme
-theme: jekyll-theme-cayman
-# Optional: You can keep this unchanged if you don't need more extensive modifications
-permalink: /:path/
-
-# Add this line to tell Jekyll to use your custom stylesheet
-markdown: kramdown
-sass:
-  style: compressed
-include:
-  - assets
