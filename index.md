@@ -15,36 +15,7 @@ Join us at our workshop at which experts from diverse fields, ranging from ML an
 The workshop will be open to everyone without a registration fee. You can register [here] ❗️add link❗️!
 
 ### Schedule 
-Fri, Dec. 6th 2023, 09:00 am - 6:00 pm ❗️check time❗️, CET, hybrid: ❗️add location❗️ and online at [Zoom] ❗️add zoom link❗️.
-
-
-| CET             |	Event             |	Speakers             | Title |
-| ----            |----                |----                 |----------|
-|              | 1. Session            | Session Chair:             |             	 |
-| 09:00             |	Opening remarks            | ML4Mol Chair             |	 |
-| 09:00             |	Invited Talk             |	            |  |
-| 09:30             |	Invited Talk             |	           | |
-| 10:00             |	Contributed talk             |          | |
-| 10:15             |	Contributed talk             |         |  |
-| 10:30             |	Contributed talk             |            |	|
-| 10:45             |	Contributed talk             |            |  |
-| 11:00             |	Poster Session 1 (PS 1)             | Poster discussion at [Gathertown] ❗️add link❗️           |	|
-| 12:00             |	Break             |				 |
-|              | 2. Session            | Session Chair:            |             	 |
-| 13:00             |	Invited talk             |	            |  |
-| 13:30             |	Invited talk             |	          |  |
-| 14:00             |	Invited talk             |	         ||
-| 14:30             |	Contributed talk             |         |	|
-| 14:45             |	Contributed talk             |            |	 |
-| 15:00             |	Break             |		 | |
-|              | 3. Session            | Session Chair:            |             	 |
-| 15:30             |	Invited talk             |	           |  |
-| 16:00             |	Invited talk             |	            |	 |
-| 16:30             |	Invited talk             |          | |
-| 17:00             |	Closing remarks             | ML4Mol Chair   | |
-| 17:05             |	Poster Session 2 (PS 2)             | Poster discussion at [Gathertown] ❗️add link❗️             |	 |
-| 18:00             |	End             |              | |
-
+[TBA]
 
 ### Keynote Speakers
 [TBA]
@@ -61,7 +32,7 @@ Fri, Dec. 6th 2023, 09:00 am - 6:00 pm ❗️check time❗️, CET, hybrid: ❗�
 
 ### Important dates
 - November 1, 2024: Deadline for submission
-- Mid / End November, 2023: Author notification
+- Mid November, 2023: Author notification
 - December 6, 2024: Workshop
 
 ### Call for papers
