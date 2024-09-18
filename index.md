@@ -31,7 +31,7 @@ The workshop will be open to everyone without a registration fee. You can regist
 
 ### Important dates
 - November 1, 2024: Deadline for submission
-- Mid November, 2023: Author notification
+- Mid November, 2024: Author notification
 - December 6, 2024: Workshop
 
 ### Call for papers
