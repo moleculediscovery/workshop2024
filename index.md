@@ -1,7 +1,7 @@
 [About](#about) - [Registration](#registration) - [Schedule](#schedule) - [Keynote Speakers](#keynote-speakers)  - [Keynote Abstracts](#keynote-abstracts) - [Accepted Contributions](#accepted-contributions) - [Important Dates](#important-dates) - [Call for Papers](#call-for-papers)
 
-> [!IMPORTANT]  
-> 2024-09-18: Registration for the workshop is now open. Please register and join us!"
+> **IMPORTANT**  
+> 2024-09-18: Registration for the workshop is now open. Please register and join us!
 
 ### About
 
