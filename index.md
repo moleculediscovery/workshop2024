@@ -1,7 +1,7 @@
 [About](#about) - [Registration](#registration) - [Schedule](#schedule) - [Keynote Speakers](#keynote-speakers)  - [Keynote Abstracts](#keynote-abstracts) - [Accepted Contributions](#accepted-contributions) - [Important Dates](#important-dates) - [Call for Papers](#call-for-papers)
 
 > [!IMPORTANT]  
-> 2024-09-17: The registration for the workshop will open soon. Link follows.
+> 2024-09-18: Registration for the workshop is now open. Please register and join us!"
 
 ### About
 
@@ -11,7 +11,7 @@ Join us at our workshop at which experts from diverse fields, ranging from ML an
 
 
 ### Registration
-The workshop will be open to everyone without a registration fee. You can register [here] ❗️add link❗️!
+The workshop will be open to everyone without a registration fee. You can register [here](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-1021584786597?aff=oddtdtcreator)!
 
 ### Schedule 
 [TBA]
