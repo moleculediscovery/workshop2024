@@ -17,7 +17,8 @@ The workshop will be open to everyone without a registration fee. You can regist
 [TBA]
 
 ### Keynote Speakers
-[TBA]
+ - [Tim Duignan](https://about.uq.edu.au/experts/20490)
+ - [TBA]
 
 #### Keynote Abstracts
 [TBA]
