@@ -18,6 +18,8 @@ The workshop will be open to everyone without a registration fee. You can regist
 
 ### Keynote Speakers
  - [Tim Duignan](https://about.uq.edu.au/experts/20490)
+ - [Cecilia Clementi](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-clementi/team/Cecilia.html)
+ - [Jian Tang](https://jian-tang.com/)
  - [TBA]
 
 #### Keynote Abstracts
