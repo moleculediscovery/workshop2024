@@ -20,7 +20,8 @@ The workshop will be open to everyone without a registration fee. You can regist
  - [Tim Duignan](https://about.uq.edu.au/experts/20490)
  - [Cecilia Clementi](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-clementi/team/Cecilia.html)
  - [Jian Tang](https://jian-tang.com/)
- - [TBA]
+ - Daniel Probst
+ - Jutta Rogal
 
 #### Keynote Abstracts
 [TBA]
@@ -52,8 +53,9 @@ We are calling for papers exploring machine learning for molecules and materials
 - Language models in chemistry
 
 
-Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2024/Workshop/ML4Molecules) until November 1 2024 11:59 PM UTC-0. The submissions should be in PDF and follow the [NeurIPS](https://neurips.cc/Conferences/2024/CallForPapers) template with a **maximum of 5 pages** (not including references and appendices). Please anonymize your paper since the review process is dual-anonymous.
+Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2024/Workshop/ML4Molecules) until November 1 2024 11:59 PM UTC-0. The submissions should be in PDF and follow the [NeurIPS](https://neurips.cc/Conferences/2024/CallForPapers) template with a **maximum of 5 pages** (not including references and appendices). We also welcome **extended abstract** submissions (2 pages). Please anonymize your paper since the review process is dual-anonymous.
 
+Note that workshop papers often represent the current status of on-going projects. They should not be considered as final versions of record for a particular project.
 
 ### Organizing Committee and Contact
 Chairs: [Johannes Margraf](https://www.fhi.mpg.de/645847/margraf_group), [Francesca Grisoni](https://molecularmachinelearning.com/), [Günter Klambauer](https://www.jku.at/institut-fuer-machine-learning/ueber-uns/team/univ-prof-mag-dr-guenter-klambauer/)
