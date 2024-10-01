@@ -14,6 +14,7 @@ Join us at our workshop at which experts from diverse fields, ranging from ML an
 The workshop will be open to everyone without a registration fee. You can register [here](https://www.eventbrite.com/e/ellis-machine-learning-for-molecule-discovery-workshop-tickets-1021584786597?aff=oddtdtcreator)!
 
 ### Schedule 
+Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max Planck Society, Berlin; online at Zoom
 [TBA]
 
 ### Keynote Speakers
