@@ -23,6 +23,7 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
  - [Jian Tang](https://jian-tang.com/)
  - [Daniel Probst](https://www.danielprobst.science/)
  - [Jutta Rogal](https://as.nyu.edu/faculty/jutta-rogal0.html)
+ - [Gábor Csányi](https://www.eng.cam.ac.uk/profiles/gc121)
 
 #### Keynote Abstracts
 [TBA]
@@ -61,6 +62,6 @@ Note that workshop papers often represent the current status of on-going project
 ### Organizing Committee and Contact
 Chairs: [Johannes Margraf](https://www.fhi.mpg.de/645847/margraf_group), [Francesca Grisoni](https://molecularmachinelearning.com/), [Günter Klambauer](https://www.jku.at/institut-fuer-machine-learning/ueber-uns/team/univ-prof-mag-dr-guenter-klambauer/)
 
-Organizing committee: Alaa Bessadok, Sovhi Luukkonen, Johannes Schimunek,  Francesca Grisoni, Johannes Margraf, Günter Klambauer
+Organizing committee: Alaa Bessadok, Sovhi Luukkonen, Johannes Schimunek, Karsten Reuter, Giulia Glorani, Francesca Grisoni, Johannes Margraf, Günter Klambauer
 
 Contact: [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at)
