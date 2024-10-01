@@ -21,8 +21,8 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
  - [Tim Duignan](https://about.uq.edu.au/experts/20490)
  - [Cecilia Clementi](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-clementi/team/Cecilia.html)
  - [Jian Tang](https://jian-tang.com/)
- - Daniel Probst
- - Jutta Rogal
+ - [Daniel Probst](https://www.danielprobst.science/)
+ - [Jutta Rogal](https://as.nyu.edu/faculty/jutta-rogal0.html)
 
 #### Keynote Abstracts
 [TBA]
