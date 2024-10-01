@@ -15,6 +15,7 @@ The workshop will be open to everyone without a registration fee. You can regist
 
 ### Schedule 
 Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max Planck Society, Berlin; online at Zoom
+
 [TBA]
 
 ### Keynote Speakers
