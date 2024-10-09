@@ -26,8 +26,15 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <div class="header-container">
+        <div class="header-left">
+          <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+          <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        </div>
+        <div class="header-right">
+          <img src="{{ '/assets/ellis_logo1_320_transparent.png' | relative_url }}" alt="Ellis Logo" class="header-logo">
+        </div>
+      </div>
       {% if site.github.is_project_page %}
         {% unless site.buttons.github_hide %}
           <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
