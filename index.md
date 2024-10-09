@@ -21,8 +21,8 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 | ----            |----                |----                 |----------|
 |              | 1. Session            | Session Chair:             |             	 |
 | 09:00             |	Opening remarks            | ML4Mol Chair             |	 |
-| 09:00             |	Invited Talk             |	          | |
-| 09:30             |	Invited Talk             |	           |  |
+| 09:00             |	Invited Talk             | Tim Duignan | |
+| 09:30             |	Invited Talk             | Cecilia Clementi |  |
 | 10:00             |	Contributed talk             |          | |
 | 10:15             |	Contributed talk             |          | |
 | 10:30             |	Contributed talk             |          |	|
@@ -30,15 +30,15 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 | 11:00             |	Poster Session 1 (PS 1)             | Poster discussion |	|
 | 12:00             |	Break             |				 |
 |              | 2. Session            | Session Chair:             |             	 |
-| 13:00             |	Invited talk             |	           | |
-| 13:30             |	Invited talk             |	      |   |
+| 13:00             |	Invited talk             | Gábor Csányi | |
+| 13:30             |	Invited talk             | Jutta Rogal |   |
 | 14:00             |	Invited talk             |	    |	|
 | 14:30             |	Contributed talk             | |	|
 | 14:45             |	Contributed talk             |   |	|
 | 15:00             |	Break             |		 | |
 |              | 3. Session            | Session Chair:  |             	 |
-| 15:30             |	Invited talk             |	|  |
-| 16:00             |	Invited talk             |	 |	 |
+| 15:30             |	Invited talk             | Daniel Probst |  |
+| 16:00             |	Invited talk             | Jian Tang |	 |
 | 16:30             |	Invited talk             |	|  |
 | 17:00             |	Closing remarks             | ML4Mol Chair   | |
 | 17:05             |	Poster Session 2 (PS 2)             | Poster discussion   |	 |
