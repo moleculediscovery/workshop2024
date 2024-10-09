@@ -9,3 +9,5 @@ color:
     android_theme: "#000" # this default to gradient_color
     link: "#6a9bdd" # this default to gradient_color
     section_title: "#e38e48" # this default to gradient_color
+buttons:
+    github_hide: true # hides "View on Github"
