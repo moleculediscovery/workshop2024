@@ -4,7 +4,7 @@ title: ML for molecules and materials in the era of LLMs [ML4Molecules]
 description: ELLIS workshop, HYBRID, December 6, 2024
 color:
     gradient_left: "#333333"
-    gradient_right: "#686868"
+    gradient_right: "#333333" # "#686868"
     header: "#c0c0c0"
     android_theme: "#000" # this default to gradient_color
     link: "#6a9bdd" # this default to gradient_color
