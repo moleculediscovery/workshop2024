@@ -19,7 +19,7 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 
 | CET             |	Event             |	Speakers             | Title |
 | ----            |----                |----                 |----------|
-|              | 1. Session            | Session Chair:             |             	 |
+|              | 1. Session            |             |             	 |
 | 09:00             |	Opening remarks            | ML4Mol Chair             |	 |
 | 09:00             |	Invited Talk             | Tim Duignan | |
 | 09:30             |	Invited Talk             | Cecilia Clementi |  |
@@ -29,14 +29,14 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 | 10:45             |	Contributed talk             |           |  |
 | 11:00             |	Poster Session 1 (PS 1)             | Poster discussion |	|
 | 12:00             |	Break             |				 |
-|              | 2. Session            | Session Chair:             |             	 |
+|              | 2. Session            |          |             	 |
 | 13:00             |	Invited talk             | Gábor Csányi | |
 | 13:30             |	Invited talk             | Jutta Rogal |   |
-| 14:00             |	Invited talk             |	    |	|
+| 14:00             |	Invited talk             | Igor Tetko |	|
 | 14:30             |	Contributed talk             | |	|
 | 14:45             |	Contributed talk             |   |	|
 | 15:00             |	Break             |		 | |
-|              | 3. Session            | Session Chair:  |             	 |
+|              | 3. Session            |  |             	 |
 | 15:30             |	Invited talk             | Daniel Probst |  |
 | 16:00             |	Invited talk             | Jian Tang |	 |
 | 16:30             |	Invited talk             |	|  |
@@ -53,6 +53,7 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
  - [Daniel Probst](https://www.danielprobst.science/)
  - [Jutta Rogal](https://as.nyu.edu/faculty/jutta-rogal0.html)
  - [Gábor Csányi](https://www.eng.cam.ac.uk/profiles/gc121)
+ - [Igor Tetko](https://vcclab.org/~itetko/)
 
 #### Keynote Abstracts
 [TBA]
