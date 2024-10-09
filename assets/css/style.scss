@@ -49,3 +49,24 @@ $hr-border-color: #eff0f1 !default;
 {% if site.hide_first_title %}
     .main-content h1:first-child { display: none; }
 {% endif %}
+
+// style to create two header areas
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-left {
+  flex: 1;
+}
+
+.header-right {
+  flex: 0;
+}
+
+.header-logo {
+  max-width: 150px; /* Adjust size as needed */
+  height: auto;
+}
+
