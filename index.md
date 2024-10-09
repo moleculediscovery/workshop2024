@@ -39,10 +39,9 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 |              | 3. Session            |  |             	 |
 | 15:30             |	Invited talk             | Daniel Probst |  |
 | 16:00             |	Invited talk             | Jian Tang |	 |
-| 16:30             |	Invited talk             |	|  |
-| 17:00             |	Closing remarks             | ML4Mol Chair   | |
-| 17:05             |	Poster Session 2 (PS 2)             | Poster discussion   |	 |
-| 18:00             |	End             |              | |
+| 16:30             |	Poster Session 2 (PS 2)             | Poster discussion   |	 |
+| 17:00             |	Retreat of ELLIS fellows         |  |	 |
+| 18:00             |	End & Closing remarks            |              | |
 
 
 
