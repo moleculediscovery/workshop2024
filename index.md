@@ -30,15 +30,15 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 | 11:00             |	Poster Session 1 (PS 1)             | Poster discussion |	|
 | 12:00             |	Break             |				 |
 |              | 2. Session            |          |             	 |
-| 13:00             |	Invited talk             | Cecilia Clementi  | |
-| 13:30             |	Invited talk             | Daniel Probst |   |
-| 14:00             |	Invited talk             | Igor Tetko |	|
+| 13:00             |	Invited talk             | Cecilia Clementi  | Modeling protein dynamics with machine learning and molecular simulation|
+| 13:30             |	Invited talk             | Daniel Probst | Less is More  |
+| 14:00             |	Invited talk             | Igor Tetko |	Expectations, achievements and lessons of AIDD and AIChemist Marie Skłodowska-Curie Innovative Training Network - European Industrial Doctorate projects |
 | 14:30             |	Contributed talk             | |	|
 | 14:45             |	Contributed talk             |   |	|
 | 15:00             |	Break             |		 | |
 |              | 3. Session            |  |             	 |
 | 15:30             |	Invited talk             | Jutta Rogal |  |
-| 16:00             |	Invited talk             | Jian Tang |	 |
+| 16:00             |	Invited talk             | Jian Tang |	Geometric Deep Learning for Protein Design |
 | 16:30             |	Poster Session 2 (PS 2)             | Poster discussion   |	 |
 | 17:00             |	Retreat of ELLIS fellows         |  |	 |
 | 18:00             |	End & Closing remarks            |              | |
