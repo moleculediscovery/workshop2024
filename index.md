@@ -21,7 +21,7 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 | ----            |----                |----                 |----------|
 |              | 1. Session            |             |             	 |
 | 09:00             |	Opening remarks            | ML4Mol Chair             |	 |
-| 09:00             |	Invited Talk             | Tim Duignan | |
+| 09:00             |	Invited Talk             | Tim Duignan | Neural network potentials solve the connecting scales problem |
 | 09:30             |	Invited Talk             | Gábor Csányi |  |
 | 10:00             |	Contributed talk             |          | |
 | 10:15             |	Contributed talk             |          | |
