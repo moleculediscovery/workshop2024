@@ -84,7 +84,7 @@ We are calling for papers exploring machine learning for molecules and materials
 - Language models in chemistry
 
 
-Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2024/Workshop/ML4Molecules) until November 1 2024 11:59 PM UTC-0. The submissions should be in PDF and follow the [NeurIPS](https://neurips.cc/Conferences/2024/CallForPapers) template with a **maximum of 5 pages** (not including references and appendices). We also welcome **extended abstract** submissions (2 pages). Please anonymize your paper since the review process is dual-anonymous.
+Please submit your contributions on [OpenReview](https://openreview.net/group?id=ELLIS.eu/2024/Workshop/ML4Molecules) until November 1 2024 11:59 PM UTC-0. The submissions should be in PDF and follow the [NeurIPS](https://neurips.cc/Conferences/2024/CallForPapers) template with a **maximum of 5 pages** (not including references and appendices). We also welcome **extended abstract** submissions (2 pages). Please anonymize your paper since the review process is dual-anonymous. Filling the NeurIPS checklist with the paper is not compulsory.
 
 Note that workshop papers often represent the current status of on-going projects. They should not be considered as final versions of record for a particular project. The workshop is non-archival.
 
