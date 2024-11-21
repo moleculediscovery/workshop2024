@@ -37,7 +37,7 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 | 14:45             |	Contributed talk             |   |	|
 | 15:00             |	Break             |		 | |
 |              | 3. Session            |  |             	 |
-| 15:30             |	Invited talk             | Jutta Rogal |  |
+| 15:30             |	Invited talk             | Jutta Rogal | Mapping phase diagrams with deep generative models |
 | 16:00             |	Invited talk             | Jian Tang |	Geometric Deep Learning for Protein Design |
 | 16:30             |	Poster Session 2 (PS 2)             | Poster discussion   |	 |
 | 17:00             |	Retreat of ELLIS fellows         |  |	 |
