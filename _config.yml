@@ -11,3 +11,4 @@ color:
     section_title: "#e38e48" # this default to gradient_color
 buttons:
     github_hide: true # hides "View on Github"
+markdown: kramdown
