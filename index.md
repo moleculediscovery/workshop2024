@@ -19,28 +19,29 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 
 | CET             |	Event             |	Speakers             | Title |
 | ----            |----                |----                 |----------|
-|              | 1. Session            |             |             	 |
+|              | 1. Session            | Session Chair: Johannes Margraf           |             	 |
 | 09:00             |	Opening remarks            | ML4Mol Chair             |	 |
 | 09:00             |	Invited Talk             | Tim Duignan | Neural network potentials solve the connecting scales problem |
 | 09:30             |	Invited Talk             | Gábor Csányi |  |
-| 10:00             |	Contributed talk             |          | |
-| 10:15             |	Contributed talk             |          | |
-| 10:30             |	Contributed talk             |          |	|
-| 10:45             |	Contributed talk             |           |  |
+| 10:00             |	Contributed talk             | Rıza Özçelik | The Jungle of Generative Drug Discovery: Traps, Treasures, and Ways Out |
+| 10:15             |	Contributed talk             | Andreas Burger | DEQuify your force field: More efficient simulations using deep equilibrium models |
+| 10:30             |	Contributed talk             | Sarina Kopf | Sample Efficient Goal-Directed Catalyst Design for the Morita-Baylis-Hillman Reaction |
+| 10:45             |	Contributed talk             | Sohvi Luukkonen | Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences |
 | 11:00             |	Poster Session 1 (PS 1)             | Poster discussion |	|
 | 12:00             |	Break             |				 |
-|              | 2. Session            |          |             	 |
+|              | 2. Session            | Session Chair: Günter Klambauer |             	 |
 | 13:00             |	Invited talk             | Cecilia Clementi  | Modeling protein dynamics with machine learning and molecular simulation|
 | 13:30             |	Invited talk             | Daniel Probst | Less is More  |
 | 14:00             |	Invited talk             | Igor Tetko |	Expectations, achievements and lessons of AIDD and AIChemist Marie Skłodowska-Curie Innovative Training Network - European Industrial Doctorate projects |
-| 14:30             |	Contributed talk             | |	|
-| 14:45             |	Contributed talk             |   |	|
-| 15:00             |	Break             |		 | |
-|              | 3. Session            |  |             	 |
-| 15:30             |	Invited talk             | Jutta Rogal | Mapping phase diagrams with deep generative models |
-| 16:00             |	Invited talk             | Jian Tang |	Geometric Deep Learning for Protein Design |
-| 16:30             |	Poster Session 2 (PS 2)             | Poster discussion   |	 |
-| 17:00             |	Retreat of ELLIS fellows         |  |	 |
+| 14:30             |	Contributed talk             | Lars Leon Schaaf | ML Force Fields for Computational NMR Spectra of Dynamic Materials across Time-Scales |
+| 14:45             |	Contributed talk             | Sara Tanovic | An exploration of dataset importance in single-step retrosynthesis prediction |
+| 15:00             |	Contributed talk             | RuiKang OuYang | BNEM: A Boltzmann Sampler Based on Bootstrapped Noised Energy Matching |
+| 15:15             |	Break             |		 | |
+|              | 3. Session            | Session Chair: Alaa Bessadok |             	 |
+| 15:45             |	Invited talk             | Jutta Rogal | Mapping phase diagrams with deep generative models |
+| 16:15             |	Invited talk             | Jian Tang |	Geometric Deep Learning for Protein Design |
+| 16:45             |	Poster Session 2 (PS 2)             | Poster discussion   |	 |
+| 17:15             |	Retreat of ELLIS fellows         |  |	 |
 | 18:00             |	End & Closing remarks            |              | |
 
 
@@ -54,15 +55,35 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
  - [Gábor Csányi](https://www.eng.cam.ac.uk/profiles/gc121)
  - [Igor Tetko](https://vcclab.org/~itetko/)
 
-#### Keynote Abstracts
-[TBA]
-
-### Accepted contributions (oral)
-[TBA]
-
 ### Accepted contributions (poster)
-[TBA]
-
+| ID | Title | Authors |
+| 1 | DEQuify your force field: More efficient simulations using deep equilibrium models | Andreas Burger, Luca Thiede, Alan Aspuru-Guzik, Nandita Vijaykumar |
+| 2 | ML Force Fields for Computational NMR Spectra of Dynamic Materials across Time-Scales | Andreas Burger, Luca Thiede, Alan Aspuru-Guzik, Nandita Vijaykumar |
+| 3 | DrugDiff - small molecule diffusion model with flexible guidance towards molecular properties | Marie Oestreich, Matthias Becker |
+| 4 | Generative Model for Synthesizing Ionizable Lipids: A Monte Carlo Tree Search Approach | Jingyi Zhao, Yuxuan Ou, Austin Tripp, Morteza Rasoulianboroujeni, José Miguel Hernández-Lobato |
+| 5 | In silico enzyme prediction and generation by fine tuning protein language models | Marco Nicolini, Emanuele Saitto, Ruben Jimenez, Emanuele Cavalleri, Aldo Galeano, Dario Malchiodi, Alberto Paccanaro, Peter N Robinson, Elena Casiraghi, Giorgio Valentini |
+| 6 | A language model assistant for biocatalysis | Yves Gaetan Nana Teukam, Francesca Grisoni, Matteo Manica |
+| 7 | Tango*: Constrained synthesis planning using chemically informed value functions | Daniel P Armstrong, Zlatko Jončev, Jeff Guo, Philippe Schwaller |
+| 8 | A Generative Model for the Design of Synthesizable Ionizable Lipids | Yuxuan Ou, Jingyi Zhao, Austin Tripp, Morteza Rasoulianboroujeni, José Miguel Hernández-Lobato |
+| 9 | The Jungle of Generative Drug Discovery: Traps, Treasures, and Ways Out | Rıza Özçelik, Francesca Grisoni |
+| 10 | BNEM: A Boltzmann Sampler Based on Bootstrapped Noised Energy Matching | RuiKang OuYang, Bo Qiang, José Miguel Hernández-Lobato |
+| 11 | Efficient and Unbiased Sampling of Boltzmann Distributions via Consistency Models | Fengzhe Zhang, Jiajun He, Laurence Illing Midgley, Javier Antoran, José Miguel Hernández-Lobato |
+| 12 | UPT++: Latent Point Set Neural Operators for Modeling System State Transitions | Andreas Fürst, Florian Sestak, Artur Petrov Toshev, Benedikt Alkin, Nikolaus A. Adams, Andreas Mayr, Günter Klambauer, Johannes Brandstetter |
+| 13 | Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences | Niklas Schmidinger, Lisa Schneckenreiter, Philipp Seidl, Johannes Schimunek, Pieter-Jan Hoedt, Johannes Brandstetter, Andreas Mayr, Sohvi Luukkonen, Sepp Hochreiter, Günter Klambauer |
+| 14 | Enhancing Molecular Property Prediction with GNNs via Architecture-Agnostic Graph Transformations | Zhifei Li, Gerrit Großmann, Verena Wolf |
+| 15 | Fantastic SMILES Augmentation Strategies and Where to Find Them | Helena Brinkmann, Francesca Grisoni, Antoine Argante, Hugo ter Steege |
+| 16 | Rectified Flow For Structure Based Drug Design | Daiheng Zhang, Chengyue Gong, Qiang Liu |
+| 17 | Equivariant conditional diffusion model for exploring the chemical space around Vaska’s complex | François R J Cornet, Pratham Deshmukh, Bardi Benediktsson, Mikkel N. Schmidt, Arghya Bhowmik |
+| 18 | Sample Efficient Goal-Directed Catalyst Design for the Morita-Baylis-Hillman Reaction | Sarina Kopf, Jeff Guo, Jaime Martin, Johannes Schoergenhumer, Cristina Nevado, Philippe Schwaller |
+| 19 | Steering generative deep learning with task negation for de novo drug design | Sarah de Ruiter, Rıza Özçelik, Francesca Grisoni |
+| 20 | MØDRCN – Open-Source Chemical Reservoir Computing Tool | Mehmet Aziz Yirik, Jakob Lykke Andersen, Rolf Fagerberg, Daniel Merkle |
+| 21 | Enhancing Generalizability in Permeability Prediction for Macrocyclic Peptides | Anna Borisova, Rebecca Manuela Neeser, Philippe Schwaller |
+| 22 | An exploration of dataset importance in single-step retrosynthesis prediction | Sara Tanovic |
+| 23 | Towards transparent ML for kinase drug discovery: Insights from structural binding models | Joschka Groß, Michael Backenköhler, Paula Linh Kramer, Verena Wolf, Andrea Volkamer |
+| 24 | Autonomous Atomistic Simulations with Hierarchical LLM Agents | Ziqi Wang, Hongshuo Huang, Hancheng Zhao, Changwen Xu, Jan Janssen, Venkatasubramanian Viswanathan |
+| 25 | Protein Language Model-Driven Zoonotic Risk Assessment of SARS-CoV-2 Variants | Payel Das, Alessandra Toniato, Aurelie Lozano, Vijil Chenthamarakshan |
+| 26 | RxnRule: Filtering single step reaction predictions based on reaction class incompatibilities | Zlatko Jončev, Daniel P Armstrong, Victor Sabanza Gil, Ziad El Malki, Philippe Schwaller |
+| 27 | Physics-Aware Diffusion Models for Micro-structure Material Design | Jacob K Christopher, Stephen Baek, Ferdinando Fioretto |
 
 ### Important dates
 - November 1, 2024: Deadline for submission
