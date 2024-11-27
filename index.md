@@ -80,7 +80,7 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 | 19 | Steering generative deep learning with task negation for de novo drug design | Sarah de Ruiter, Rıza Özçelik, Francesca Grisoni |
 | 20 | MØDRCN – Open-Source Chemical Reservoir Computing Tool | Mehmet Aziz Yirik, Jakob Lykke Andersen, Rolf Fagerberg, Daniel Merkle |
 | 21 | Enhancing Generalizability in Permeability Prediction for Macrocyclic Peptides | Anna Borisova, Rebecca Manuela Neeser, Philippe Schwaller |
-| 22 | An exploration of dataset importance in single-step retrosynthesis prediction | Sara Tanovic |
+| 22 | An exploration of dataset importance in single-step retrosynthesis prediction | Sara Tanovic, Fernanda Duarte |
 | 23 | Towards transparent ML for kinase drug discovery: Insights from structural binding models | Joschka Groß, Michael Backenköhler, Paula Linh Kramer, Verena Wolf, Andrea Volkamer |
 | 24 | Autonomous Atomistic Simulations with Hierarchical LLM Agents | Ziqi Wang, Hongshuo Huang, Hancheng Zhao, Changwen Xu, Jan Janssen, Venkatasubramanian Viswanathan |
 | 25 | Protein Language Model-Driven Zoonotic Risk Assessment of SARS-CoV-2 Variants | Payel Das, Alessandra Toniato, Aurelie Lozano, Vijil Chenthamarakshan |
