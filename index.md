@@ -57,7 +57,7 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 
 ### Accepted contributions (poster)
 | ID | Title | Authors |
-|---|---|---|
+|----|-------|---------|
 | 1 | DEQuify your force field: More efficient simulations using deep equilibrium models | Andreas Burger, Luca Thiede, Alan Aspuru-Guzik, Nandita Vijaykumar |
 | 2 | ML Force Fields for Computational NMR Spectra of Dynamic Materials across Time-Scales | Andreas Burger, Luca Thiede, Alan Aspuru-Guzik, Nandita Vijaykumar |
 | 3 | DrugDiff - small molecule diffusion model with flexible guidance towards molecular properties | Marie Oestreich, Matthias Becker |
