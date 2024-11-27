@@ -60,7 +60,7 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 | ID | Title | Authors |
 |----|-------|---------|
 | 1 | DEQuify your force field: More efficient simulations using deep equilibrium models | Andreas Burger, Luca Thiede, Alan Aspuru-Guzik, Nandita Vijaykumar |
-| 2 | ML Force Fields for Computational NMR Spectra of Dynamic Materials across Time-Scales | Andreas Burger, Luca Thiede, Alan Aspuru-Guzik, Nandita Vijaykumar |
+| 2 | ML Force Fields for Computational NMR Spectra of Dynamic Materials across Time-Scales | Lars Leon Schaaf, Benjamin J. Rhodes, Mary E. Zick, Suzi M. Pugh, Jordon S. Hilliard, Shivani Sharma, Casey R. Wade, Phillip J. Milner, Gabor Csanyi, Alexander C. Forse |
 | 3 | DrugDiff - small molecule diffusion model with flexible guidance towards molecular properties | Marie Oestreich, Matthias Becker |
 | 4 | Generative Model for Synthesizing Ionizable Lipids: A Monte Carlo Tree Search Approach | Jingyi Zhao, Yuxuan Ou, Austin Tripp, Morteza Rasoulianboroujeni, José Miguel Hernández-Lobato |
 | 5 | In silico enzyme prediction and generation by fine tuning protein language models | Marco Nicolini, Emanuele Saitto, Ruben Jimenez, Emanuele Cavalleri, Aldo Galeano, Dario Malchiodi, Alberto Paccanaro, Peter N Robinson, Elena Casiraghi, Giorgio Valentini |
