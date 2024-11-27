@@ -56,6 +56,7 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
  - [Igor Tetko](https://vcclab.org/~itetko/)
 
 ### Accepted contributions (poster)
+
 | ID | Title | Authors |
 |----|-------|---------|
 | 1 | DEQuify your force field: More efficient simulations using deep equilibrium models | Andreas Burger, Luca Thiede, Alan Aspuru-Guzik, Nandita Vijaykumar |
