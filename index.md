@@ -22,7 +22,7 @@ Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max P
 |              | 1. Session            | Session Chair: Johannes Margraf           |             	 |
 | 09:00             |	Opening remarks            | ML4Mol Chair             |	 |
 | 09:00             |	Invited Talk             | Tim Duignan | Neural network potentials solve the connecting scales problem |
-| 09:30             |	Invited Talk             | Gábor Csányi |  |
+| 09:30             |	Invited Talk             | John Chodera | Teaching free energy calculations to learn |
 | 10:00             |	Contributed talk             | Rıza Özçelik | The Jungle of Generative Drug Discovery: Traps, Treasures, and Ways Out |
 | 10:15             |	Contributed talk             | Andreas Burger | DEQuify your force field: More efficient simulations using deep equilibrium models |
 | 10:30             |	Contributed talk             | Sarina Kopf | Sample Efficient Goal-Directed Catalyst Design for the Morita-Baylis-Hillman Reaction |
