@@ -111,9 +111,16 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 
 Note that workshop papers often represent the current status of on-going projects. They should not be considered as final versions of record for a particular project. The workshop is non-archival.
 
+### Best Paper Award
+The best paper is sponsored by Astra Zeneca.
+
+Award committee: Andrea Volkamer, Philippe Schwaller, Cecilia Clementi
+
 ### Organizing Committee and Contact
 Chairs: [Johannes Margraf](https://www.fhi.mpg.de/645847/margraf_group), [Francesca Grisoni](https://molecularmachinelearning.com/), [Günter Klambauer](https://www.jku.at/institut-fuer-machine-learning/ueber-uns/team/univ-prof-mag-dr-guenter-klambauer/)
 
 Organizing committee: Alaa Bessadok, Sovhi Luukkonen, Johannes Schimunek, Karsten Reuter, Giulia Glorani, Francesca Grisoni, Johannes Margraf, Günter Klambauer
+
+AstraZeneca has provided a sponsorship grant towards this independent Programme.
 
 Contact: [ml4molecules@ml.jku.at](ml4molecules@ml.jku.at)
