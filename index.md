@@ -112,7 +112,7 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 Note that workshop papers often represent the current status of on-going projects. They should not be considered as final versions of record for a particular project. The workshop is non-archival.
 
 ### Best Paper Award
-The best paper is sponsored by Astra Zeneca.
+The best paper award is sponsored by AstraZeneca.
 
 Award committee: Andrea Volkamer, Philippe Schwaller, Cecilia Clementi
 
