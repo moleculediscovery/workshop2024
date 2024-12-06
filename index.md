@@ -112,7 +112,11 @@ Please submit your contributions on [OpenReview](https://openreview.net/group?id
 Note that workshop papers often represent the current status of on-going projects. They should not be considered as final versions of record for a particular project. The workshop is non-archival.
 
 ### Best Paper Award
-The best paper award is sponsored by AstraZeneca.
+The best paper award (1000€) is sponsored by AstraZeneca.
+
+Two papers share the best paper award:
+- DEQuify your force field: More efficient simulations using deep equilibrium models.  Andreas Burger et al. 
+- Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences. Niklas Schmidinger et al.
 
 Award committee: Andrea Volkamer, Philippe Schwaller, Cecilia Clementi
 
