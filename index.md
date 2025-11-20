@@ -17,32 +17,30 @@ The workshop will be open to everyone without a registration fee. You can regist
 Fri, Dec 6th, 09:00 am - 6:00 pm, CET; venue: Fritz Haber Institute of the Max Planck Society, Berlin; online at Zoom
 
 
-| CET             |	Event             |	Speakers             | Title |
-| ----            |----                |----                 |----------|
-|              | 1. Session            | Session Chair: Johannes Margraf           |             	 |
-| 09:00             |	Opening remarks            | ML4Mol Chair             |	 |
-| 09:00             |	Invited Talk             | Tim Duignan | Neural network potentials solve the connecting scales problem |
-| 09:30             |	Invited Talk             | John Chodera | Teaching free energy calculations to learn |
-| 10:00             |	Contributed talk             | Rıza Özçelik | The Jungle of Generative Drug Discovery: Traps, Treasures, and Ways Out |
-| 10:15             |	Contributed talk             | Andreas Burger | DEQuify your force field: More efficient simulations using deep equilibrium models |
-| 10:30             |	Contributed talk             | Sarina Kopf | Sample Efficient Goal-Directed Catalyst Design for the Morita-Baylis-Hillman Reaction |
-| 10:45             |	Contributed talk             | Sohvi Luukkonen | Bio-xLSTM: Generative modeling, representation and in-context learning of biological and chemical sequences |
-| 11:00             |	Poster Session 1 (PS 1)             | Poster discussion |	|
-| 12:00             |	Break             |				 |
-|              | 2. Session            | Session Chair: Günter Klambauer |             	 |
-| 13:00             |	Invited talk             | Cecilia Clementi  | Modeling protein dynamics with machine learning and molecular simulation|
-| 13:30             |	Invited talk             | Daniel Probst | Less is More  |
-| 14:00             |	Invited talk             | Igor Tetko |	Expectations, achievements and lessons of AIDD and AIChemist Marie Skłodowska-Curie Innovative Training Network - European Industrial Doctorate projects |
-| 14:30             |	Contributed talk             | Lars Leon Schaaf | ML Force Fields for Computational NMR Spectra of Dynamic Materials across Time-Scales |
-| 14:45             |	Contributed talk             | Sara Tanovic | An exploration of dataset importance in single-step retrosynthesis prediction |
-| 15:00             |	Contributed talk             | RuiKang OuYang | BNEM: A Boltzmann Sampler Based on Bootstrapped Noised Energy Matching |
-| 15:15             |	Break             |		 | |
-|              | 3. Session            | Session Chair: Alaa Bessadok |             	 |
-| 15:45             |	Invited talk             | Jutta Rogal | Mapping phase diagrams with deep generative models |
-| 16:15             |	Invited talk             | Jian Tang |	Geometric Deep Learning for Protein Design |
-| 16:45             |	Poster Session 2 (PS 2)             | Poster discussion   |	 |
-| 17:15             |	Retreat of ELLIS fellows         |  |	 |
-| 18:00             |	End & Closing remarks            |              | |
+| CET           | Event                           | Speakers                                   | Title                                                                                      |
+| ------------- | -------------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| 08:00 - 09:00 | Registration                     |                                            |                                                                                            |
+| 09:00 - 09:30 | Invited Talk                     | Rocio Mercado                              | Generative AI for Molecular Design: From Drugs to Sustainable Materials                    |
+| 09:30 - 10:00 | Invited Talk                     | Daniel Probst                              | Of graphs, sets, and molecules                                                             |
+| 10:00 - 10:15 | Contributed Talk                 | Nawaf Alampara                             | Task Alignment Outweighs Framework Choice in Scientific LLM Agents                         |
+| 10:15 - 10:30 | Contributed Talk                 | Riccardo Tedoldi                           | WEISS: Wasserstein efficient sampling strategy for LLMs in drug design                     |
+| 10:30 - 11:00 | Coffee Break                     |                                            |                                                                                            |
+| 11:00 - 11:30 | Invited Talk                     | Marwin Segler                              | Deep Learning for Molecules: The First Decade                                              |
+| 11:30 - 11:45 | Contributed Talk                 | Nikhil Branson                             | AntiDIF: Accurate and Diverse Antibody Specific Inverse Folding with Discrete Diffusion    |
+| 11:45 - 12:00 | Contributed Talk                 | Yujia Guo                                  | Bridging Data-Driven and Expert Knowledge for Interpretable Evaluation of Synthetic Routes |
+| 12:00 - 12:30 | Panel Discussion                 | Günter Klambauer, José Miguel Hernández Lobato, TBD |                                                                                            |
+| 12:30 - 13:30 | Lunch                            |                                            |                                                                                            |
+| 13:30 - 14:00 | Invited Talk                     | Nadine Schneider                           | Applying AI/ML to Accelerate the DMTA Cycle in Drug Discovery                              |
+| 14:00 - 14:15 | Contributed Talk                 | Julian Cremer                              | FLOWR.root: A flow matching based foundation model for joint multi-purpose structure-aware 3D ligand generation and affinity prediction |
+| 14:15 - 14:30 | Contributed Talk                 | Rasmus Hannibal Tirsgaard                  | Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus                       |
+| 14:30 - 14:45 | Contributed Talk                 | Xuan Vu Nguyen                             | Synthelite: Chemist-aligned and feasibility-aware synthesis planning with LLMs             |
+| 14:45 - 15:00 | Contributed Talk                 | Marcel Hiltscher                           | Explaining What Matters: Faithfulness in Molecular Deep Learning                           |
+| 15:00 - 15:30 | Coffee Break                     |                                            |                                                                                            |
+| 15:30 - 16:00 | ELLIS UnConference Welcome       |                                            |                                                                                            |
+| 16:00 - 16:30 | Retreat of Program Fellows       |                                            |                                                                                            |
+| 16:00 - 18:00 | Poster session                   |                                            |                                                                                            |
+| 18:00 - 20:00 | Reception                        |                                            |                                                                                            |
+
 
 
 
